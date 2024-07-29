@@ -1,4 +1,4 @@
-# maquilageshop
+# Hotelbook
 
 > A Vue.js project
 
